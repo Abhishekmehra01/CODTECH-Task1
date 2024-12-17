@@ -3,7 +3,7 @@
 <b>Company</b>: CODTECH IT SOLUTIONS <br>
 <b>ID</b>: CT4WD2977<br>			 					
 <b>Domain</b>: Web Development <br>
-<b>Duration </b>: 25 June 2024 To 25 July 2024 <br>
+<b>Duration </b>: 25 June 2024 To 24 August 2024 <br>
 
 <h1>Overview of the Project</h1>
 
